@@ -1,0 +1,4 @@
+stremalit
+pandas
+plotly
+openpyxl
